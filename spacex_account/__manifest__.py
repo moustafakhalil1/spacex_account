@@ -46,7 +46,7 @@
     'application': True,
     # 'post_init_hook': '_account_accountant_post_init',
     # 'uninstall_hook': "uninstall_hook",
-    'license': 'OEEL-1',
+    'license': 'OPL-1',
     'assets': {
         'web.assets_backend': [
             'spacex_account/static/src/js/tours/account_accountant.js',
