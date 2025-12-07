@@ -10,11 +10,14 @@
     'sequence': 30,
     'summary': 'Manage financial and analytic accounting',
     'description': """
-========================
- accounting features such as bank , cash  statements 
-
-""",
-    'depends': ['account','mass_mailing_sms'],
+            <p>Accounting features such as bank, cash statements, and reconciliation.</p>
+            <ul>
+                <li>Bank reconciliation widget</li>
+                <li>Automatic write-off lines</li>
+                <li>Invoice matching</li>
+            </ul>
+      """,
+    'depends': ['account', 'mass_mailing_sms'],
     'data': [
         # 'data/account_accountant_data.xml',
         'data/ir_cron.xml',
