@@ -3,7 +3,7 @@
 {
     'name': 'Spacex Accounting',
     'author': 'Spacex',
-    'website': 'https://www.plennix.com',
+    'website': '',
     'company': 'Spacex',
     'version': '1.1',
     'category': 'Accounting/Accounting',
